@@ -1,6 +1,8 @@
 <h1>Scrape the data of linkedin members</h1>
 Please not that this activity is breach of terms and conditions associated with the usage of linkedin. This code was created solely for educational purposes. Your account WILL BE RESTRICTED if suspicious activity is detected.
 
+<br/>
+
 <h1>Data</h1>
 The scraper returns some personal information of the member, their educational qualifications, work experiences and certifications.
 
