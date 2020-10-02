@@ -1,16 +1,17 @@
 <h1>Scrape the data of linkedin members</h1>
-Please not that this activity is breach of terms and conditions associated with the usage of linkedin. This code was created solely for educational purposes.
-
-Your account WILL BE RESTRICTED if suspicious activity is detected.
+Please not that this activity is breach of terms and conditions associated with the usage of linkedin. This code was created solely for educational purposes. Your account WILL BE RESTRICTED if suspicious activity is detected.
 
 <h1>DATA</h1>
 The scraper returns some personal information of the member, their educational qualifications, work experiences and certifications.
+
+<br/>
 
 <h1>REQUIREMENTS</h1>
 - An HTML parser eg. lxml
 - Selenium
 - BeautifulSoup
 
+<br/>
 
 <h1>USAGE</h1>
 
@@ -91,6 +92,8 @@ Successfully saved experiences
 Successfully saved qualifications
 Successfully saved certifications
 ```
+
+<br/>
 
 <h2>Scraping data from multiple profiles</h2>
 
