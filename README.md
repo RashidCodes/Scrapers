@@ -7,9 +7,10 @@ The scraper returns some personal information of the member, their educational q
 <br/>
 
 <h1>Requirements</h1>
-- An HTML parser eg. lxml
-- Selenium
-- BeautifulSoup
+
+    - An HTML parser eg. lxml
+    - Selenium
+    - BeautifulSoup
 
 <br/>
 
