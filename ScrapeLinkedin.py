@@ -7,7 +7,7 @@ import time
 
 
 class ScrapeLinkedin:
-    """Scrape the data of a linkedin member with your linkedin profile. Note that
+    """Scrape the data of a linkedin member with your linkedin profile. Note that this
     is a breach of the terms and conditions associated with the usage of Linkedin.
 
     Your account WILL BE RESTRICTED if suspicious activity is detected.
