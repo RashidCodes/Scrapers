@@ -9,6 +9,7 @@ The scraper returns some personal information of the member, their educational q
 <br/>
 
 <h1>Requirements</h1>
+
     - [A Chrome Webdriver](https://sites.google.com/a/chromium.org/chromedriver/downloads): The version should be same as the version of your google chrome browser.
     - An HTML parser eg. lxml
     - Selenium
