@@ -3,10 +3,12 @@ Please note that this activity is a breach of terms and conditions associated wi
 
 <br/>
 
+
 <h1>Data</h1>
 The scraper returns some personal information of the member, their educational qualifications, work experiences and certifications.
 
 <br/>
+
 
 <h1>Requirements</h1>
 
