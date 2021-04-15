@@ -9,7 +9,7 @@ The scraper returns some personal information of the member, their educational q
 <br/>
 
 <h1>Requirements</h1>
-
+    - [A Chrome Webdriver](https://sites.google.com/a/chromium.org/chromedriver/downloads): The version should be same as the version of your google chrome browser.
     - An HTML parser eg. lxml
     - Selenium
     - BeautifulSoup
@@ -17,8 +17,19 @@ The scraper returns some personal information of the member, their educational q
 <br/>
 
 <h1>Usage</h1>
+1. Install the modules in the requirements.txt file.
 
-<h2> Scraping data from a single profile</h2>
+```bash
+>>> pip install -r requirements.txt
+```
+
+2. Make sure the correct version of ChromeDriver is downloaded.
+
+3. Edit the try.py file and run it.
+
+<br/>
+
+<h1> Scraping data from a single profile</h1>
 
 ```bash
 >>> import uuid
