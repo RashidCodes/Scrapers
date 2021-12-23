@@ -1,4 +1,4 @@
-<h1>Scrape the data of linkedin members</h1>
+<h1>Scrape the data of Linkedin members</h1>
 Please note that this activity is a breach of terms and conditions associated with the usage of LinkedIn. This code was created solely for educational purposes. Your account WILL BE RESTRICTED if suspicious activity is detected.
 
 <br/>
